@@ -1,0 +1,9 @@
+title: orca_storage_editor_871
+description: Custom role for managing Cloud Storage objects
+stage: GA
+includedPermissions:
+- storage.buckets.get
+- storage.objects.get
+- storage.objects.list
+- storage.objects.update
+- storage.objects.create
