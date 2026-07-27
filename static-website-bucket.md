@@ -113,7 +113,3 @@ File created successfully: gcs_cloudflare_static_hosting-v2.md
 
 Your Markdown file updated for `[www.example.com](https://www.example.com)` is ready:
 
-
----
-
-### File Content Preview
